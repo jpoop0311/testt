@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 xxx
+=======
+z
+>>>>>>> origin/feature1
